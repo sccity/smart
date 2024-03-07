@@ -8,7 +8,7 @@ WARNING: This system is still in active development and is not considered a fini
 * A MySQL/MariaDB database with proper access rights. Currently, we are using Amazon AWS RDS.
 
 ## LICENSE
-Copyright (c) Santa Clara City UT\
+Copyright (c) Santa Clara City UT
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
